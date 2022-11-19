@@ -3,7 +3,7 @@
 float CentigradetoFahrenheit(float c)
 {
     float f;
-    f = ((c*9)/5)+32;
+    f = ((c*9)/5)+32; // The formula for converting Celsius to Fahrenheit
     return f;
 }
 int main()
